@@ -33,6 +33,13 @@
     Write an AI to rank web pages by importance.
 
     Calculating PageRank by sampling pages from a Markov Chain random surfer and by iteratively applying the PageRank formula.
+
+  - Heredity
+ 
+    Write an AI to assess the likelihood that a person will have a particular genetic trait.
+
+    Forming a Bayesian network to make inferences about a population. Given information about people, who their parents are, and whether they have a particular observable trait (e.g. hearing loss) caused by a given gene, it will infer the probability distribution   
+for each person’s genes, as well as the probability distribution for whether any person will exhibit the trait in question.
 ## 3. Optimization
 ## 4. Learning
 ## 5. Neural Networks
