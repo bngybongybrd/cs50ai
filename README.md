@@ -24,6 +24,13 @@
     Teaches different ways to represent knowledge for a computer
     
 ## 2. Uncertainty
+- Project 2:
+
+  - PageRank
+ 
+    Write an AI to rank web pages by importance.
+
+    Calculating PageRank by sampling pages from a Markov Chain random surfer and by iteratively applying the PageRank formula.
 ## 3. Optimization
 ## 4. Learning
 ## 5. Neural Networks
