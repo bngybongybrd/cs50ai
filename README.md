@@ -16,11 +16,13 @@
   - Knights
 
     Write a program to solve logic puzzles, using propositional logic.
+
     Touches on skills such as being able to convert worded knowledge of a problem into code knowledge for the computer to understand
 
   - Minesweeper
  
     Write an AI to play Minesweeper.
+
     Teaches different ways to represent knowledge for a computer
     
 ## 2. Uncertainty
