@@ -2,7 +2,7 @@ optimizer="adam",
 loss="categorical_crossentropy",
 metrics=["accuracy"]
 
-1st attempt: Best
+1st: Best
 Activation: all relu, softmax output layer
 2x Conv, MaxPool
 Flatten
@@ -14,7 +14,7 @@ Result:
 2. accuracy: 0.8856 - loss: 0.3963
 
 
-2nd attempt:
+2nd:
 Activation: all relu, softmax output layer
 2x Conv, MaxPool
 Flatten
@@ -27,7 +27,7 @@ Result:
 3. accuracy: 0.7836 - loss: 0.7021
 4. accuracy: 0.7356 - loss: 0.9147
 
-3rd attempt:
+3rd:
 Activation: all relu, softmax output layer
 3x Conv, MaxPool
 Flatten
@@ -38,7 +38,7 @@ Dense: 43
 Result:
 1. accuracy: 0.7270 - loss: 0.8497
 
-4rd attempt:
+4rd:
 Activation: all relu, softmax output layer
 2x Conv, MaxPool
 Flatten
