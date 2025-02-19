@@ -67,7 +67,9 @@ for each person’s genes, as well as the probability distribution for whether a
 ## 5. Neural Networks
 - Project 5:
 
-  - Write an AI to identify which traffic sign appears in a photograph.
+  - Traffic
+    
+    Write an AI to identify which traffic sign appears in a photograph.
  
     Processes data set of images into numpy multidimensional array, and creating a CNN by manually adding layers
     Documentation and investigating
@@ -77,3 +79,22 @@ for each person’s genes, as well as the probability distribution for whether a
     - different numbers and sizes of hidden layers
     - dropout (proportion of nodes ignored to prevent overfitting)
 ## 6. Language
+- Project 6:
+
+  - Parser
+
+    Write an AI to parse sentences and extract noun phrases.
+
+    Uses nltk library. Wrote context-free grammar rules to allow the parsing of sentences. Implemented function to return a list of all of the noun phrase chunks in that sentence.
+
+  - Attention
+    
+    Write an AI to predict a masked word in a text sequence.
+
+    Uses BERT, a transformer-based language model developed by Google, and it was trained with this approach: the language model was trained to predict a masked word based on the surrounding context words.
+    Uses transformers Python library, developed by Hugging Face, to write a program that uses BERT to predict masked words. The program will also generate diagrams visualizing attention scores, with one diagram generated for each of the 144 attention heads.
+    Mainly documenting and analysing the attention diagrams generated, about what each different layers and heads focus on.
+
+
+
+
